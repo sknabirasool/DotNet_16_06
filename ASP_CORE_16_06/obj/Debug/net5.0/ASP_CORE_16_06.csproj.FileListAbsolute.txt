@@ -1,0 +1,16 @@
+G:\Tech\ASP_CORE_16_06\ASP_CORE_16_06\bin\Debug\net5.0\ASP_CORE_16_06.exe
+G:\Tech\ASP_CORE_16_06\ASP_CORE_16_06\bin\Debug\net5.0\ASP_CORE_16_06.deps.json
+G:\Tech\ASP_CORE_16_06\ASP_CORE_16_06\bin\Debug\net5.0\ASP_CORE_16_06.runtimeconfig.json
+G:\Tech\ASP_CORE_16_06\ASP_CORE_16_06\bin\Debug\net5.0\ASP_CORE_16_06.runtimeconfig.dev.json
+G:\Tech\ASP_CORE_16_06\ASP_CORE_16_06\bin\Debug\net5.0\ASP_CORE_16_06.dll
+G:\Tech\ASP_CORE_16_06\ASP_CORE_16_06\bin\Debug\net5.0\ASP_CORE_16_06.pdb
+G:\Tech\ASP_CORE_16_06\ASP_CORE_16_06\obj\Debug\net5.0\ASP_CORE_16_06.csproj.AssemblyReference.cache
+G:\Tech\ASP_CORE_16_06\ASP_CORE_16_06\obj\Debug\net5.0\ASP_CORE_16_06.GeneratedMSBuildEditorConfig.editorconfig
+G:\Tech\ASP_CORE_16_06\ASP_CORE_16_06\obj\Debug\net5.0\ASP_CORE_16_06.AssemblyInfoInputs.cache
+G:\Tech\ASP_CORE_16_06\ASP_CORE_16_06\obj\Debug\net5.0\ASP_CORE_16_06.AssemblyInfo.cs
+G:\Tech\ASP_CORE_16_06\ASP_CORE_16_06\obj\Debug\net5.0\ASP_CORE_16_06.csproj.CoreCompileInputs.cache
+G:\Tech\ASP_CORE_16_06\ASP_CORE_16_06\obj\Debug\net5.0\ASP_CORE_16_06.dll
+G:\Tech\ASP_CORE_16_06\ASP_CORE_16_06\obj\Debug\net5.0\refint\ASP_CORE_16_06.dll
+G:\Tech\ASP_CORE_16_06\ASP_CORE_16_06\obj\Debug\net5.0\ASP_CORE_16_06.pdb
+G:\Tech\ASP_CORE_16_06\ASP_CORE_16_06\obj\Debug\net5.0\ASP_CORE_16_06.genruntimeconfig.cache
+G:\Tech\ASP_CORE_16_06\ASP_CORE_16_06\obj\Debug\net5.0\ref\ASP_CORE_16_06.dll
